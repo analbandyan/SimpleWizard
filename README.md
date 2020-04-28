@@ -1,2 +1,2 @@
 # SimpleWizard
-Simple draft implementation of wizard
+Simple draft implementation of wizard application
